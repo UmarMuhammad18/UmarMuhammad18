@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 BSc Computer Science<br>🌱 Interested in Web/App dev, game dev, and AI<br>💬 2026 Goals: Create more projects and contribute to more Open Source projects<br>
+🔭 BSc Computer Science<br>🌱 Interested in Web/App dev, 2d game dev, and AI<br>💬 2026 Goals: Create more projects and contribute to more Open Source projects<br>
 
 
 ## 🌐 Socials:
